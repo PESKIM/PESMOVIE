@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PESMOVIE/precache-manifest.c53f62724437ff5c7ddf71c4c120ba6c.js"
+  "/PESMOVIE/precache-manifest.4c65dcdfbcea554d84d8f4e701dcdfc8.js"
 );
 
 workbox.clientsClaim();
