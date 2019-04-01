@@ -1,13 +1,13 @@
 {
-  "main.css": "/movie_app/static/css/main.4751e4ba.chunk.css",
-  "main.js": "/movie_app/static/js/main.af32043e.chunk.js",
-  "main.js.map": "/movie_app/static/js/main.af32043e.chunk.js.map",
-  "runtime~main.js": "/movie_app/static/js/runtime~main.e6fc6960.js",
-  "runtime~main.js.map": "/movie_app/static/js/runtime~main.e6fc6960.js.map",
-  "static/js/2.18ad5851.chunk.js": "/movie_app/static/js/2.18ad5851.chunk.js",
-  "static/js/2.18ad5851.chunk.js.map": "/movie_app/static/js/2.18ad5851.chunk.js.map",
-  "index.html": "/movie_app/index.html",
-  "precache-manifest.e5e959d9a4ae495ed4ceb060382a290e.js": "/movie_app/precache-manifest.e5e959d9a4ae495ed4ceb060382a290e.js",
-  "service-worker.js": "/movie_app/service-worker.js",
-  "static/css/main.4751e4ba.chunk.css.map": "/movie_app/static/css/main.4751e4ba.chunk.css.map"
+  "main.css": "/PESMOVIE/static/css/main.4751e4ba.chunk.css",
+  "main.js": "/PESMOVIE/static/js/main.3c62fd92.chunk.js",
+  "main.js.map": "/PESMOVIE/static/js/main.3c62fd92.chunk.js.map",
+  "runtime~main.js": "/PESMOVIE/static/js/runtime~main.1a4fdd12.js",
+  "runtime~main.js.map": "/PESMOVIE/static/js/runtime~main.1a4fdd12.js.map",
+  "static/js/2.18ad5851.chunk.js": "/PESMOVIE/static/js/2.18ad5851.chunk.js",
+  "static/js/2.18ad5851.chunk.js.map": "/PESMOVIE/static/js/2.18ad5851.chunk.js.map",
+  "index.html": "/PESMOVIE/index.html",
+  "precache-manifest.c53f62724437ff5c7ddf71c4c120ba6c.js": "/PESMOVIE/precache-manifest.c53f62724437ff5c7ddf71c4c120ba6c.js",
+  "service-worker.js": "/PESMOVIE/service-worker.js",
+  "static/css/main.4751e4ba.chunk.css.map": "/PESMOVIE/static/css/main.4751e4ba.chunk.css.map"
 }
